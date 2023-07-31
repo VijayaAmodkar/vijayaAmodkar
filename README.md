@@ -18,5 +18,5 @@ Hello there! Welcome to my personal README.md file. My name is Vijaya Amodkar , 
 
 💬 Problem Solving: I have a strong analytical and problem-solving mindset, allowing me to approach complex challenges efficiently.
 ## 📞 Contact
-Feel free to reach out to me via email at your gauripatil07035@gmail.com for any collaboration opportunities, job offers, or just to say hello! I'm always excited to connect with fellow developers and tech enthusiasts.
+Feel free to reach out to me via email at your  Vidyaamodkar2003@gmail.com for any collaboration opportunities, job offers, or just to say hello! I'm always excited to connect with fellow developers and tech enthusiasts.
 Let's create something awesome together! 🚀
