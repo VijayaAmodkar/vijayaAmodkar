@@ -1,6 +1,6 @@
 # Hi, I'm Vijaya! 👋
 ![Logo](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
-)
+
 ## 🚀 About Me
 Hello there! Welcome to my personal README.md file. My name is Vijaya Amodkar , and I am a full-stack developer currently studying at SSBT's College of Engineering & Technology Jalgaon. This document provides a brief overview of my skills, experience, and projects. Feel free to explore and get to know me better!
 ## 🔗 Links
